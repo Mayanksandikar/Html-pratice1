@@ -251,7 +251,7 @@
 width: 1px;
 height: 365px;
 left: 45%;
-top: 182%;
+top: 138%;
 
 border-left: 2px dashed white;
 }
@@ -260,12 +260,12 @@ border-left: 2px dashed white;
 width: 1px;
 height: 280px;
 left: 45%;
-top: 305%;
+top: 230%;
 
 border-left: 2px dashed white;
 }
 
-@media only screen and (max-width: 1536px ) {
+@media only screen and (max-width: 1575px ) {
 
 .portfolio {
   background: rgba(24, 38, 81, 1);
@@ -520,7 +520,7 @@ border-left: 2px dashed white;
 width: 1px;
 height: 365px;
 left: 45%;
-top: 164%;
+top: 167%;
 
 border-left: 2px dashed white;
 }
@@ -534,3 +534,4 @@ top: 278%;
 border-left: 2px dashed white;
 }
 }
+
