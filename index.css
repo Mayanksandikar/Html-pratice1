@@ -265,7 +265,7 @@ top: 230%;
 border-left: 2px dashed white;
 }
 
-@media only screen and (max-width: 1575px ) {
+@media screen and (min-width: 1400px) and (max-width: 1600px) {
 
 .portfolio {
   background: rgba(24, 38, 81, 1);
