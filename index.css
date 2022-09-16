@@ -251,7 +251,7 @@
 width: 1px;
 height: 365px;
 left: 45%;
-top: 138%;
+top: 167%;
 
 border-left: 2px dashed white;
 }
@@ -260,12 +260,12 @@ border-left: 2px dashed white;
 width: 1px;
 height: 280px;
 left: 45%;
-top: 230%;
+top: 278%;
 
 border-left: 2px dashed white;
 }
 
-@media screen and (min-width: 1518px) and (max-width: 1556px) {
+@media screen and (min-width: 1518px) and (max-width: 1575px) {
 
 .portfolio {
   background: rgba(24, 38, 81, 1);
